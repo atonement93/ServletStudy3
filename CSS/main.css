@@ -1,0 +1,168 @@
+@charset "UTF-8";
+body {
+	background-color: BlanchedAlmond;
+	margin: 0 !important;
+    padding: 0 !important;
+}
+
+.ad{
+	width:100%;
+	height:90px;
+	background-color: black;
+	margin-top:0px;
+	padding-top:0px;
+	display: inline-block;
+}
+
+.adinad {
+	background-image: url("../images/logo.png");
+	background-repeat : no-repeat;
+	width:231px;
+	height:90px;
+	margin: 0px auto;
+}
+
+.category{
+	margin-top:0px;
+	padding-top:0px;
+	width:100%;
+	height:30px;
+	background-color: BlanchedAlmond;
+}
+
+.categoryfont {
+	font-weight: bolder;
+}
+
+.categoryfont2 {
+	color:gray;
+}
+
+.red1 {
+	background-image: url("../images/빨간줄.JPG");
+	background-repeat: repeat;
+	width:100%;
+	height:10px;
+}
+
+.mainmenu {
+	background-color: BlanchedAlmond;
+	width:100%;
+	height:100px;
+}
+
+.mainfont1 {
+	font-size: 30px;
+	font-weight: bolder;
+	margin-left:470px;
+	padding-top:17px;
+}
+
+.main{
+	background-image: url("../images/벽돌.jpg");
+	width:100%;
+	height:600px;
+}
+
+.mainimage{
+	background-image: url("../images/avengers5.jpg");
+	background-repeat : no-repeat;
+	width:1067px;
+	height:600px;
+	margin:0px auto;
+}
+
+.main2 {
+	background-color: rgb(252,252,240);
+	width:100%;
+	height:1600px;
+}
+
+.movie {
+	background-image: url("../images/selection.JPG");
+	background-repeat: no-repeat;
+	width:1225px;
+	height:81px;
+	margin:0px auto;	
+}
+
+.teaser {
+	margin:0px auto;
+}
+
+.event {
+	background-image: url("../images/event.JPG");
+	background-repeat: no-repeat;
+	width:1228px;
+	height:85px;
+	margin:0px auto;	
+}
+
+.event1 {
+	background-image: url("../images/event1.jpg");
+	background-repeat: no-repeat;
+	width:763px;
+	height:70px;
+	margin:0px auto;	
+}
+
+.event2 {
+	background-image: url("../images/event2.jpg");
+	background-repeat: no-repeat;
+	width:923px;
+	height:257px;
+	margin:0px auto;
+}
+
+hr.line1 {
+	width:1228px;
+	border-bottom:0px;
+	text-align:left;
+	margin:0px auto;
+}
+
+.event3 {
+	width:100%;
+	height:200px;
+	margin-top:70px;
+	padding-top:70px;
+	background-color: rgb(28, 28, 28);
+}
+
+.event3image {
+	width:520px;
+	height:200px;
+	margin-bottom:12px;
+	padding-bottom:12px;
+	background-image: url("../images/event3.JPG");
+	background-repeat: no-repeat;
+	margin:0px auto;
+}
+
+hr.line2 {
+	margin-top:30px;
+	padding-top:30px;
+	width:100%;
+	size:10px;
+}
+
+.footerlogo {
+	background-image: url("../images/footerlogo.jpg");
+	background-repeat: no-repeat;
+	margin:0px auto;
+	width:125px;
+	height:80px;
+}
+
+.footerfont {
+	width:100%;
+	height:50px;
+	text-align:center;
+}
+
+.footer {
+	background-image: url("../images/벽돌.jpg");
+	background-repeat: repeat;
+	width:100%;
+	height:170px;
+}

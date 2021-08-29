@@ -1,0 +1,31 @@
+@charset "UTF-8";
+
+.table{
+	border:2px solid ;
+	border-collapse:collapse;
+	padding:10px 5px;
+	text-align:center;
+}
+
+.th {
+	background-color: LightGrey;
+	color:Black;
+	border-color: black;
+	border-bottom: dotted black;
+}
+
+.f {
+	background-color: LemonChiffon;
+}
+
+.s {
+	background-color: Khaki;
+}
+
+.t {
+	background-color: GoldenRod;
+}
+
+.l {
+	border-bottom: double black;
+}
